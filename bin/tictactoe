@@ -64,7 +64,6 @@ def start
 
 end
 
-
 until input == "n"
   start
   puts
