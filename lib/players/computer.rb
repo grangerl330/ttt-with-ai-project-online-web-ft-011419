@@ -50,11 +50,9 @@ class Players
           output = corner + 1
         else
           output = rand(1..9)
-        end
+      end
 
         output.to_s
     end
-
   end
-
 end
