@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative '../config/environment'
-require_relative '../player.rb'
+#require_relative '../player.rb'
 
 class Players
 
